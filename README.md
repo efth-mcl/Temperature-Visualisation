@@ -21,3 +21,5 @@ build.sh bash script tasks :
 2. dawnload dataset
 3. run SpiderChart.py
 
+![Image of Spider Chart](https://github.com/EfMichalis/Temperature-Visualisation/blob/master/images/spider-chart.png)
+
