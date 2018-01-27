@@ -14,12 +14,13 @@ dataset [link]( https://data.giss.nasa.gov/gistemp/ )
 
 ## Set Up
 ```
+$ cd Scripts
+$ chmod +x build.sh
 $ ./build.sh
 ```
 build.sh bash script tasks :
-1. pip3 installation numpy , pandas , matplotlib
+1. pip3 installation numpy, pandas, matplotlib
 2. dawnload dataset
 3. run SpiderChart.py
 
 ![Image of Spider Chart](https://github.com/EfMichalis/Temperature-Visualisation/blob/master/images/spider-chart.png)
-

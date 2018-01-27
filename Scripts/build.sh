@@ -1,7 +1,7 @@
 echo install numpy, pandas, matplotlib libraries
-sudo pip3 install numpy
-sudo pip3 install pandas
-sudo pip3 install matplotlib
+pip3 install numpy
+pip3 install pandas
+pip3 install matplotlib
 echo Dawnload Land-Surface Air and Sea-Surface Water Gloabl .CSV
 wget --no-check-certificate -O "GLB.Ts+dSST.csv" "https://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts+dSST.csv"
 
